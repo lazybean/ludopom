@@ -6,7 +6,7 @@ export default () => (
       textAlign: "center",
       fontFamily: "helvetica",
       fontSize: 20,
-      textShadow: "green 2px  2px 10px",
+      textShadow: "green 4px  2px 10px",
     }}
   >
     Hi!
