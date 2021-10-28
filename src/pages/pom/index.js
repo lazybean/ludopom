@@ -9,6 +9,6 @@ export default () => (
       textShadow: "red 2px  2px 10px",
     }}
   >
-    Welcome to Pom!
+    Welcome to Pom 🍎!
   </div>
 )
