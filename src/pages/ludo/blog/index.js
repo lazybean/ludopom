@@ -9,6 +9,6 @@ export default () => (
       textShadow: "green 2px  2px 10px",
     }}
   >
-    Welcome to Ludo's blog!
+    Please be Welcome to Ludo's blog!
   </div>
 )
